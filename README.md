@@ -15,11 +15,13 @@ ClearSpeak is an application featuring a user-friendly graphical interface that 
 
 In the application, implement a feature that allows users to rewrite text points in three different styles:
 
-- Creative language that is understandable by everyone
-- Natural language that is understandable by everyone
-- Precise, but normal language that is understandable by everyone
+- Creative language for all audiences
+- Easy-to-understand natural language
+- Clear and precise language for everyone
 
 For each point, the user should be able to convert it into the desired style. Below are examples of how to transform the given points:
+
+### IMPORTANT! Update table with results from new promps as per above
 
 |      Style       |                      Example 1                      |                           Example 2                           |                            Example 3                             |
 |:----------------:|:---------------------------------------------------:|:-------------------------------------------------------------:|:---------------------------------------------------------------:|

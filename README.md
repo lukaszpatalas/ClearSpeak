@@ -4,6 +4,7 @@
 
 - Check if there is any way to include AI-generated images (DALEE, MidJourney).
 - Develop an app.
+- Write benefits and significance of clear communication
 - Prepare final version of README.md
 - Explore options of recreating app in Power Apps, as it appears to utilize the GPT-4 model, but requires further confirmation.
 - Explore options for moving the Python version to Azure.

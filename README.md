@@ -5,7 +5,7 @@
 - Check if there is any way to include AI-generated images (DALEE, MidJourney).
 - Develop an app.
 - Prepare final version of README.md
-- Explore options for creating an equivalent app in Power Apps.
+- Explore options of recreating app in Power Apps, as it appears to utilize the GPT-4 model, but requires further confirmation.
 - Explore options for moving the Python version to Azure.
 
 ## Design 
@@ -15,9 +15,17 @@ ClearSpeak is an application featuring a user-friendly graphical interface that 
 ## Features
 
 - Convert work-related technical text into language understandable for everyone
-- Useful for for multiple industries and departments
+- Useful for multiple industries and departments
 - User-friendly graphical interface
 - Ability to choose three different modes: creative, natural and precise.
+
+## Extra ideas to explore
+
+- Translation to multiple languages
+- Speech-to-Text-Conversion (by utilizing Whisper)
+- Integration with Instant Messaging Apps used by company
+- Machine Learning-Powered Suggestions
+- Cloud-Based Storage and Syncing
 
 ## What to implement (CHANGE to something more suitable once implemented)
 

@@ -1,5 +1,13 @@
 # ClearSpeak
 
+## Tasks
+
+- Check if there is any way to include AI-generated images (DALEE, MidJourney).
+- Develop an app.
+- Prepare final version of README.md
+- Explore options for creating an equivalent app in Power Apps.
+- Explore options for moving the Python version to Azure.
+
 ## Design 
 
 ClearSpeak is an application featuring a user-friendly graphical interface that enables users to translate job-specific jargon into language that is easily understandable for individuals not familiar with such terminology, benefiting both customers and colleagues from other departments.

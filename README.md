@@ -12,6 +12,9 @@ ClearSpeak is an app with an easy-to-use visual interface that helps users conve
 ## Tasks to do
 - Check if there is any way to include AI-generated images (DALEE, MidJourney).
 - Develop an app.
+- Change very creative to creative.
+- Change natural to balance and clear.
+- Continue prompt engineering to ensure clear and understandable response.
 - Write benefits and significance of clear communication
 - Prepare final version of README.md
 - Explore options of recreating app in Power Apps, as it appears to utilize the GPT-4 model, but requires further confirmation.
@@ -38,7 +41,7 @@ Please rephrase the original text so that it is easily understood by both custom
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Original  | The exclusion criteria considered are: The metadata provides sufficient evidence that the study is not related to web development or engineering methodologies. The summary does not provide sufficient information or evidence to indicate that the research does not have an approach related to web application development methodologies. |
 | Natural   | The factors used to exclude certain studies are: The study's background information clearly shows it's not related to website creation or engineering techniques. The study's summary doesn't give enough details or proof to show that the research isn't connected to methods used in developing web applications.                          |
-| Creative  | The whimsical rules for leaving out certain studies include: The study's magical metadata unveils enough clues to show that it's not entwined with the art of web creation or the labyrinth of engineering tactics. The study's enchanting overview doesn't possess the necessary keys or tokens to reveal that the research isn't linked to the mystical realm of web application crafting methods.   |
+| Creative  | Studies that don't fit our criteria are like a puzzle piece that doesn't quite match - their metadata doesn't reveal a connection to web development, or their summary doesn't provide enough clues to show that they use the same methods we're studying. |
 
 ## Getting Started (EXPAND on this)
 These instructions will guide you on how to set up ClearSpeak on your local machine for development and testing purposes.

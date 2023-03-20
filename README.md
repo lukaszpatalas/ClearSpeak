@@ -1,41 +1,31 @@
 # ClearSpeak
 
-## Design 
-ClearSpeak is an application designed for use in emails, technical documentation, and many other areas, featuring an easy-to-use visual interface that helps users convert industry-specific language into simpler terms. This makes it useful for both customers and colleagues from various departments who read emails, technical documentation, and other materials.
+## Code Adaptation and Improvements:
+- Modified code for custom requirements and upgraded to GPT-3.5-turbo.
+- Focusing on prompt engineering and model parameter optimization.
+- Promising initial results, with more improvements anticipated.
+
+## Design
+ClearSpeak simplifies technical language in emails, documentation, and other materials, making it more accessible for customers and colleagues. Its user-friendly interface will offer natural and creative modes.
 
 ## Features
-- Transforms technical work-related texts, emails, and documentation into easily understandable language
-- Suitable for various industries and departments, emails, technical documentation, and more
-- User-friendly visual interface
-- Offers two modes: natural and creative
-
+- Converts technical texts into understandable language.
+- Applicable to various industries and materials.
+- Two modes: natural and creative.
 ## Tasks to do
-- Check if there is any way to include AI-generated images (DALEE, MidJourney).
-- Develop an app.
-- Change very creative to creative.
-- Change natural to balance and clear.
-- Test polite and concise prompt suggestions.
-- Continue prompt engineering to ensure clear and understandable output.
-- Check following for prompt engineering ideas: https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?r=US&IR=T
-- Write benefits and significance of clear communication
-- Prepare final version of README.md
-- Explore options of recreating app in Power Apps, as it appears to utilize the GPT-4 model, but requires further confirmation.
-- Explore options for moving the Python version to Azure.
+- Investigate AI-generated images (DALEE, MidJourney) and app development.
+- Refine modes and test prompt suggestions.
+- Enhance prompt engineering for clear output.
+- Review the linked article for ideas and write benefits of clear communication.
+- Finalize README.md and explore Azure deployment.
+- Consider Power Apps and additional features.
 
 ## Extra ideas to explore
-- Translation to multiple languages
-- Speech-to-Text-Conversion (by utilizing Whisper)
-- Integration with Instant Messaging Apps used by company
-- Machine Learning-Powered Suggestions
-- Cloud-Based Storage and Syncing
-
-## Prompts
-
-### Natural mode
-Please rephrase the original text so that it is easily understood by both customers and non-technical departments while maintaining the original meaning and message. This will help ensure clear communication. Use natural language. Here is the original text:
-
-### Creative mode
-Please rephrase the original text so that it is easily understood by both customers and non-technical departments while maintaining the original meaning and message. This will help ensure clear communication. Use very creative language. Here is the original text:
+- Multi-language translation
+- Speech-to-text (Whisper)
+- Instant messaging integration
+- Machine learning suggestions
+- Cloud storage and syncing
 
 ## Example
 

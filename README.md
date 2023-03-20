@@ -16,6 +16,7 @@ ClearSpeak is an application designed for use in emails, technical documentation
 - Change natural to balance and clear.
 - Test polite and concise prompt suggestions.
 - Continue prompt engineering to ensure clear and understandable output.
+- Check following for prompt engineering ideas: https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?r=US&IR=T
 - Write benefits and significance of clear communication
 - Prepare final version of README.md
 - Explore options of recreating app in Power Apps, as it appears to utilize the GPT-4 model, but requires further confirmation.

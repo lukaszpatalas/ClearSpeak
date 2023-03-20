@@ -27,14 +27,6 @@ ClearSpeak simplifies technical language in emails, documentation, and other mat
 - Machine learning suggestions
 - Cloud storage and syncing
 
-## Example
-
-| Type      | Text                                                                                                                                                    |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Original  | The exclusion criteria considered are: The metadata provides sufficient evidence that the study is not related to web development or engineering methodologies. The summary does not provide sufficient information or evidence to indicate that the research does not have an approach related to web application development methodologies. |
-| Natural   | We have specific criteria for determining which studies are relevant to our research on web development and engineering methodologies. We base our decisions on information provided in the study's metadata and summary. If the metadata shows that the study is not related to web development or engineering methodologies, or if the summary does not provide enough information to determine whether the research is related to web application development methodologies, then we exclude it from our analysis.         |
-| Creative  | Studies that don't fit our criteria are like a puzzle piece that doesn't quite match - their metadata doesn't reveal a connection to web development, or their summary doesn't provide enough clues to show that they use the same methods we're studying. |
-
 ## Getting Started (EXPAND on this)
 These instructions will guide you on how to set up ClearSpeak on your local machine for development and testing purposes.
 

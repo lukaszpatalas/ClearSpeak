@@ -14,7 +14,8 @@ ClearSpeak is an app with an easy-to-use visual interface that helps users conve
 - Develop an app.
 - Change very creative to creative.
 - Change natural to balance and clear.
-- Continue prompt engineering to ensure clear and understandable response.
+- Test polite and concise prompt suggestions.
+- Continue prompt engineering to ensure clear and understandable output.
 - Write benefits and significance of clear communication
 - Prepare final version of README.md
 - Explore options of recreating app in Power Apps, as it appears to utilize the GPT-4 model, but requires further confirmation.
@@ -40,7 +41,7 @@ Please rephrase the original text so that it is easily understood by both custom
 | Type      | Text                                                                                                                                                    |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Original  | The exclusion criteria considered are: The metadata provides sufficient evidence that the study is not related to web development or engineering methodologies. The summary does not provide sufficient information or evidence to indicate that the research does not have an approach related to web application development methodologies. |
-| Natural   | The factors used to exclude certain studies are: The study's background information clearly shows it's not related to website creation or engineering techniques. The study's summary doesn't give enough details or proof to show that the research isn't connected to methods used in developing web applications.                          |
+| Natural   | To determine which studies are relevant to our research on web development and engineering methodologies, we use specific exclusion criteria. These criteria are based on the information provided in the study's metadata and summary. If the metadata indicates that the study is not related to web development or engineering methodologies, or if the summary does not provide enough information to determine whether the research is related to web application development methodologies, then we exclude it from our analysis.              |
 | Creative  | Studies that don't fit our criteria are like a puzzle piece that doesn't quite match - their metadata doesn't reveal a connection to web development, or their summary doesn't provide enough clues to show that they use the same methods we're studying. |
 
 ## Getting Started (EXPAND on this)

@@ -1,11 +1,11 @@
 # ClearSpeak
 
 ## Design 
-ClearSpeak is an app with an easy-to-use visual interface that helps users convert industry-specific language into simpler terms that can be understood by people who aren't familiar with the technical terms, making it helpful for both customers and coworkers from different departments.
+ClearSpeak is an application designed for use in emails, technical documentation, and many other areas, featuring an easy-to-use visual interface that helps users convert industry-specific language into simpler terms. This makes it useful for both customers and colleagues from various departments who read emails, technical documentation, and other materials.
 
 ## Features
-- Transforms technical work-related text into easily understandable language
-- Suitable for various industries and departments
+- Transforms technical work-related texts, emails, and documentation into easily understandable language
+- Suitable for various industries and departments, emails, technical documentation, and more
 - User-friendly visual interface
 - Offers two modes: natural and creative
 

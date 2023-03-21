@@ -1,4 +1,4 @@
-# ClearSpeak
+# Clear Speak
 
 ## Code Adaptation and Improvements:
 - Modified code for custom requirements and upgraded to GPT-3.5-turbo.

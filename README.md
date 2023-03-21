@@ -10,7 +10,7 @@ ClearSpeak simplifies technical language in emails, documentation, and other mat
 
 ## Features
 - Converts technical texts into understandable language.
-- Applicable to various industries and materials.
+- Applicable to various industries and text types.
 - Two modes: natural and creative.
 ## Tasks to do
 - Investigate AI-generated images (DALEE, MidJourney) and app development.

@@ -1,4 +1,4 @@
-# Clear Speak
+# ClearSpeak
 
 ## Code Adaptation and Improvements:
 - Modified code for custom requirements and upgraded to GPT-3.5-turbo.
@@ -6,7 +6,7 @@
 - Promising initial results, with more improvements anticipated.
 
 ## Design
-Clear Speak simplifies technical language in emails, documentation, and other materials, making it more accessible for customers and colleagues. Its user-friendly interface will offer natural and creative modes.
+ClearSpeak simplifies technical language in emails, documentation, and other materials, making it more accessible for customers and colleagues. Its user-friendly interface will offer natural and creative modes.
 
 ## Features
 - Converts technical texts into understandable language.
@@ -28,10 +28,10 @@ Clear Speak simplifies technical language in emails, documentation, and other ma
 - Cloud storage and syncing
 
 ## Getting Started (EXPAND on this)
-These instructions will guide you on how to set up Clear Speak on your local machine for development and testing purposes.
+These instructions will guide you on how to set up ClearSpeak on your local machine for development and testing purposes.
 
 ## AI Model
-Clear Speak currently uses the GPT-3.5-turbo model for text rewriting tasks. However, our goal is to upgrade to the GPT-4 Turbo model (once the API key becomes available) to enhance performance and capabilities.
+ClearSpeak currently uses the GPT-3.5-turbo model for text rewriting tasks. However, our goal is to upgrade to the GPT-4 Turbo model (once the API key becomes available) to enhance performance and capabilities.
 
 ### Why upgrade to GPT-4 Turbo?
 GPT-4 Turbo outperforms GPT-3.5-turbo in aspects such as reliability, creativity, and handling complex instructions. GPT-4 is great at various tasks, like solving problems, answering multiple-choice questions, and assisting with languages that don't have many resources. This makes GPT-4 an ideal choice for the Clear Speak app, as it will optimize the text rewriting process and produce more precise and creative outcomes.

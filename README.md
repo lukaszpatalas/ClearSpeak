@@ -36,6 +36,6 @@ ClearSpeak currently employs GPT-3.5-turbo for text rewriting but plans to upgra
 ## Why GPT-4 Turbo?
 GPT-4 Turbo surpasses GPT-3.5-turbo in reliability, creativity, and complex instruction handling. Excelling at tasks like problem-solving, multiple-choice questions, and aiding under-resourced languages, GPT-4 will optimize ClearSpeak's text rewriting for enhanced precision and creativity.
 
-### Comparison between gpt3.5 and gpt-4 models
+### Comparison between GPT-3.5 Turbo and GPT-4 Turbo
 
 ![image](https://user-images.githubusercontent.com/106703426/226074988-aa426a3a-4762-4175-a1f0-f8edb8e5291e.png)

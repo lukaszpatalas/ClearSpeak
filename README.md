@@ -31,10 +31,10 @@ ClearSpeak simplifies technical language in emails, documentation, and other mat
 These instructions will guide you on how to set up ClearSpeak on your local machine for development and testing purposes.
 
 ## AI Model
-ClearSpeak currently uses the GPT-3.5-turbo model for text rewriting tasks. However, our goal is to upgrade to the GPT-4 Turbo model (once the API key becomes available) to enhance performance and capabilities.
+ClearSpeak currently employs GPT-3.5-turbo for text rewriting but plans to upgrade to GPT-4 Turbo once the API key is accessible to improve performance and capabilities.
 
-### Why upgrade to GPT-4 Turbo?
-GPT-4 Turbo outperforms GPT-3.5-turbo in aspects such as reliability, creativity, and handling complex instructions. GPT-4 is great at various tasks, like solving problems, answering multiple-choice questions, and assisting with languages that don't have many resources. This makes GPT-4 an ideal choice for the Clear Speak app, as it will optimize the text rewriting process and produce more precise and creative outcomes.
+## Why GPT-4 Turbo?
+GPT-4 Turbo surpasses GPT-3.5-turbo in reliability, creativity, and complex instruction handling. Excelling at tasks like problem-solving, multiple-choice questions, and aiding under-resourced languages, GPT-4 will optimize ClearSpeak's text rewriting for enhanced precision and creativity.
 
 ### Comparison between gpt3.5 and gpt-4 models
 
